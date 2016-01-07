@@ -17,5 +17,10 @@ namespace EntitiesLayer
             Nom = pNom;
             Score = pScore;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

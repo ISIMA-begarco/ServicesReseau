@@ -23,5 +23,10 @@ namespace EntitiesLayer
             PhaseTournoi = pPhaseTournoi;
             Stade = pStade;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

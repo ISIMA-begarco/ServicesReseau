@@ -21,6 +21,6 @@ namespace EntitiesLayer
             return ID == o.ID;
         }
 
-        public abstract int GetHashCode();
+        override public abstract int GetHashCode();
     }
 }

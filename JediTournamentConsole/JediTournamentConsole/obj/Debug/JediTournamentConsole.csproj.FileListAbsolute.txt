@@ -1,1 +1,13 @@
 c:\users\pichevalie1\documents\visual studio 2012\Projects\JediTournamentConsole\JediTournamentConsole\bin\Debug\JediTournamentConsole.exe.config
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\JediTournamentConsole.exe.config
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\obj\Debug\JediTournamentConsole.csprojResolveAssemblyReference.cache
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\JediTournamentConsole.exe
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\JediTournamentConsole.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary1.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary3.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary2.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary1.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary3.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\bin\Debug\ClassLibrary2.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\obj\Debug\JediTournamentConsole.exe
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\JediTournamentConsole\obj\Debug\JediTournamentConsole.pdb

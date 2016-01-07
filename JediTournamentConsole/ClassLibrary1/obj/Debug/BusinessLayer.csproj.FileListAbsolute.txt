@@ -1,0 +1,9 @@
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary3.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\bin\Debug\ClassLibrary3.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

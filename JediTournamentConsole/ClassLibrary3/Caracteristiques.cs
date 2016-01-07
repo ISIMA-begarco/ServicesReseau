@@ -21,5 +21,10 @@ namespace EntitiesLayer
             Type = pType;
             Valeur = pValeur;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

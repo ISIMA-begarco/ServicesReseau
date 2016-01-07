@@ -19,5 +19,10 @@ namespace EntitiesLayer
             NbPlaces = pNbPlaces;
             Planete = pPlanete;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

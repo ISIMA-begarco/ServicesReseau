@@ -16,5 +16,10 @@ namespace EntitiesLayer
             ID = pID;
             Nom = pnom;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

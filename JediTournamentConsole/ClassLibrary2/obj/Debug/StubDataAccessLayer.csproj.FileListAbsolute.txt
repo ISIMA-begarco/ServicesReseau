@@ -1,0 +1,7 @@
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\bin\Debug\ClassLibrary3.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\bin\Debug\ClassLibrary3.pdb
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+O:\OneDrive\GitHub\ServicesReseau\JediTournamentConsole\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

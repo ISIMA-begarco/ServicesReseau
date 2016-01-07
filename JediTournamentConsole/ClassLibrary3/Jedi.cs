@@ -19,5 +19,10 @@ namespace EntitiesLayer
             IsSith = pIsSith;
             Nom = pNom;
         }
+
+        public override int GetHashCode()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
