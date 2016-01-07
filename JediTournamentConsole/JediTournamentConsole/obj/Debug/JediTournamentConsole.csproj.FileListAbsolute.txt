@@ -1,0 +1,1 @@
+c:\users\pichevalie1\documents\visual studio 2012\Projects\JediTournamentConsole\JediTournamentConsole\bin\Debug\JediTournamentConsole.exe.config
